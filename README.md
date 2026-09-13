@@ -4,6 +4,8 @@
 
 This project explores Netflix movies released during the 1990s using Python.
 
+This project was completed as part of a DataCamp learning project and extended with additional exploratory analyses.
+
 The analysis focuses on movie duration, genres, and the number of movies released each year.
 
 ## Questions explored
